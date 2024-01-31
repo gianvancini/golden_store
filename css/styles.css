@@ -438,6 +438,10 @@ nav a {
     margin-bottom: 1.1em;
   }
 
+  .header-container p {
+    font-size: 1.1em;
+  }
+
   .menu-toggle {
     display: block;
     position: absolute;
